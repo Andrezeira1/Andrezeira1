@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Andrezeira1&color=7C3138&style=flat-square) 
 # Olá! 👋🏻 #
-E aí? Sou o André, tenho 15 anos e curto PCs, atualmente mexo muito com Linux - principalmente Debian - e, nas horas vagas, vejo sobre programação.
+E aí? Sou o André, tenho 16 anos e curto PCs, atualmente mexo muito com Linux - principalmente Debian - e, nas horas vagas, vejo sobre programação.
 # Minha história com a tecnologia #
 Comecei com a tecnologia cedo, por volta dos meus 5 a 6 anos, comecei a usar computadores com frequência, e, atualmente, tenho outro grande sonho: aprender programação.
 # Programação #
