@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Andrezeira1&color=7C3138&style=flat-square) 
 
-https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=andrezeirauno&theme=dark&show_scrobbles=true
+![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=andrezeirauno)
 # Olá! 👋🏻 #
 E aí? Sou o André, tenho 16 anos e curto PCs, atualmente mexo muito com Linux - principalmente Debian - e, nas horas vagas, vejo sobre programação.
 # Minha história com a tecnologia #
